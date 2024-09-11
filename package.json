@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/PixelForge/",
+    "build": "vite build --base=/111_html-css_nikilandgello/",
     "preview": "vite preview"
   },
   "devDependencies": {
